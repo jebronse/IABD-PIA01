@@ -12,4 +12,8 @@ Repo para primera práctia de la asignatura PIA del Curso de Especialización en
 
 ### <ins>APARTADO 2: Red Social</ins>
 
----
+En tu perfil en Linkedin:
+
+1. Sigue a Comunidad Spain AI
+2. Busca profesionales o expertos en el ámbito de la inteligencia artificial y sígueles.
+
