@@ -1,3 +1,5 @@
+![Logo para el repo IADB-PIA01](Logo_PIA01a)
+
 # IABD-PIA01
 Repo para primera práctia de la asignatura PIA del Curso de Especialización en IA y BD
 
